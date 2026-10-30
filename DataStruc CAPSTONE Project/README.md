@@ -119,12 +119,14 @@ Both sorts show the records of **before** and **after** sorting.
 ### 1. Main menu
 
 ![Main menu](screenshot/main-menu.png)
+
 _The menu shows all the options of the system._
 
 ### 2. Adding records and displaying stored records
 
 ![Add records](screenshot/add-record.png)
 ![Display records](screenshot/display-record.png)
+
 _A new patient is registered, then all records are displayed in a table._
 
 ### 3. Queue operations (enqueue, peek, dequeue, display)
@@ -133,6 +135,7 @@ _A new patient is registered, then all records are displayed in a table._
 ![Queue operations (Peek)](screenshot/peek.png)
 ![Queue operations (Dequeue)](screenshot/dequeue.png)
 ![Queue operations (Display)](screenshot/display-queue.png)
+
 _Patients are added to the queue, the next patient is peeked, one patient is called, and the waiting list is displayed._
 
 ### 4. FIFO behavior
@@ -140,20 +143,24 @@ _Patients are added to the queue, the next patient is peeked, one patient is cal
 ![FIFO behavior](screenshot/fifo1.png)
 ![FIFO behavior](screenshot/fifo2.png)
 ![FIFO behavior](screenshot/fifo3.png)
+
 _The first patient added to the queue is the first patient called._
 
 ### 5. Bubble Sort (before and after)
 
 ![Bubble sort](screenshot/bubble-sort.png)
+
 _Records are shown before and after bubble sort._
 
 ### 6. Shell Sort (before and after)
 
 ![Shell sort](screenshot/shell-sort.png)
+
 _Records are shown before and after shell sort._
 
 ### 7. Input validation and error messages
 
 ![Input validation (Menu)](screenshot/validation-menu.png)
 ![Input validation (Invalid Name, Age, and Time)](screenshot/error.png)
+
 _The program shows error messages for wrong menu choices, invalid names, ages, and times._
