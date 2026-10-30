@@ -125,7 +125,7 @@ _The menu shows all the options of the system._
 ### 2. Adding records and displaying stored records
 
 ![Add records](screenshot/add-record.png)
-![Display records](screenshot/display-record.png)
+![Display records](screenshot/display-records.png)
 
 _A new patient is registered, then all records are displayed in a table._
 
